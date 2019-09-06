@@ -1,4 +1,4 @@
-const tf = require("@tensorflow/tfjs");
+// const tf = require("@tensorflow/tfjs");
 const _ = require("lodash");
 
 //gradientDescent() ： Run one iteration of GD and update m and b
